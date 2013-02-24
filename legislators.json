@@ -10,7 +10,9 @@
     "state": "Minnesota", 
     "district": "35A", 
     "party": "Republican Party of Minnesota", 
+    "party_classification": "Republican",
     "date_of_birth": "1954-05-18", 
+    "first_elected": 1998,
     "gender": "Male", 
     "profession": "Chiropractor", 
     "religion": "Baptist", 
@@ -18,6 +20,7 @@
         "first": "James", 
         "middle": "J.", 
         "last": "Abeler", 
+        "prefix": "Dr.",
         "suffix": "II",
         "nickname": "Jim", 
         "proper": "Rep. Jim Abeler"
@@ -35,19 +38,27 @@
         "facebook_personal": "jim.abeler"
     }, 
     "phones": {
-        "office": "651-296-1729"
+        "office": "651-296-1729",
+        "business": "763-421-3722"
     }, 
     "addresses": {
         "home": {
+            "street": "3400 Rum River Drive", 
             "city": "Anoka", 
             "state": "MN", 
-            "street": "3400 Rum River Drive", 
             "zip": 55303
         }, 
+        "business": {
+            "business": "Abeler Chiropractic Clinic",
+            "street": "600 E Main St",
+            "city": "Anoka",
+            "state": "MN",
+            "zip": 55303
+        },
         "office": {
+            "street": "203 State Office Building", 
             "city": "St. Paul", 
             "state": "MN", 
-            "street": "203 State Office Building", 
             "zip": "55155-1298"
         }
     }, 
@@ -65,10 +76,10 @@
             "type": "College"
         }, 
         {
-            "awarded": 1979, 
-            "degree": "D.C.", 
             "school": "Northwestern College of Chiropractic", 
-            "type": "College"
+            "type": "College",
+            "degree": "D.C.", 
+            "awarded": 1979
         }
     ], 
     "finance": {
