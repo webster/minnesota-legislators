@@ -1,0 +1,88 @@
+{
+    "identifiers": {
+        "state": 10002, 
+        "votesmart": 20208,
+        "mprvotetracker": 174
+    },
+    "common_name": "Jim Abeler", 
+    "body": "Minnesota House of Representatives",
+    "position": "Representative", 
+    "state": "Minnesota", 
+    "district": "35A", 
+    "party": "Republican Party of Minnesota", 
+    "date_of_birth": "1954-05-18", 
+    "gender": "Male", 
+    "profession": "Chiropractor", 
+    "religion": "Baptist", 
+    "name": {
+        "first": "James", 
+        "middle": "J.", 
+        "last": "Abeler", 
+        "suffix": "II",
+        "nickname": "Jim", 
+        "proper": "Rep. Jim Abeler"
+    },
+    "emails": {
+        "office": "rep.jim.abeler@house.mn",
+        "campaign": "jim@jimabeler.com", 
+    }, 
+    "links": {
+        "campaign": "http://jimabeler.com/", 
+        "legislator": "http://www.house.leg.state.mn.us/members/members.asp?id=10002", 
+        "wikipedia": "http://en.wikipedia.org/wiki/Jim_Abeler"
+    }, 
+    "social": {
+        "facebook_personal": "jim.abeler"
+    }, 
+    "phones": {
+        "office": "651-296-1729"
+    }, 
+    "addresses": {
+        "home": {
+            "city": "Anoka", 
+            "state": "MN", 
+            "street": "3400 Rum River Drive", 
+            "zip": 55303
+        }, 
+        "office": {
+            "city": "St. Paul", 
+            "state": "MN", 
+            "street": "203 State Office Building", 
+            "zip": "55155-1298"
+        }
+    }, 
+    "education": [
+        {
+            "school": "Anoka High School", 
+            "type": "High School"
+        }, 
+        {
+            "school": "University of Minnesota", 
+            "type": "College"
+        }, 
+        {
+            "school": "Hamline University", 
+            "type": "College"
+        }, 
+        {
+            "awarded": 1979, 
+            "degree": "D.C.", 
+            "school": "Northwestern College of Chiropractic", 
+            "type": "College"
+        }
+    ], 
+    "finance": {
+        "14819": {
+            "agency": "Minnesota Campaign Finance Board",
+            "committee": "(James) Abeler Volunteer Committee"
+        }
+    },
+    "terms": {
+        "81": {
+            "body": "Minnesota House of Representatives", 
+            "district": "49A", 
+            "election_date": "1998-11-03", 
+            "term_dates": ["1999-01-05", "2001-01-02"]
+        }
+    }
+}
